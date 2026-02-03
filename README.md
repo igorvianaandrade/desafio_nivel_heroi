@@ -26,6 +26,18 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
  
- 
- 
+## Teste
+
+Digite no TERMINAL do VS CODE
+
+# Para ver a solução do desafio: 
+
+node src\index.js
+
+# Para ver a refatoração da solução do desafio:
+
+node src\index_refatoracao.js
+
+(Obs: Necessário estar com o node instalado e funcionado para o VSCODE)
+
 Bons estudos 😉
