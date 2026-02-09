@@ -38,6 +38,10 @@ node src\index.js
 
 node src\index_refatoracao.js
 
+# Para ver a solução do desafio com matriz: 
+
+node src\index_matrix.js
+
 (Obs: Necessário estar com o node instalado e funcionado para o VSCODE)
 
 Bons estudos 😉
